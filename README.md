@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ipekguzel8
+- 👋 Hi, I’m İpek Güzel
 - 👀 I’m interested in C#, Java in Web Application
 - 🌱 I’m currently learning Docker
 - 📫 How to reach me ipekgzel8@gmail.com
